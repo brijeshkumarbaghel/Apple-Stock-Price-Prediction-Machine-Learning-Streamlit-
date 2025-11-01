@@ -27,7 +27,7 @@ It takes recent stock data as input and forecasts future closing prices while vi
 ---
 
 ## 📂 Project Structure
-Apple_Stock_Price_Predictor/
+```Apple_Stock_Price_Predictor/
 │
 ├── app.py # Streamlit app
 ├── APPLE_Stock_Price_Predictor.ipynb # Jupyter Notebook (Model training)
@@ -35,7 +35,7 @@ Apple_Stock_Price_Predictor/
 ├── scaler_y.pkl # Scaler for target variable
 ├── scaler_X_sarimax.pkl # Scaler for exogenous variables
 ├── README.md # Project documentation
-└── requirements.txt # Dependencies (see below)
+└── requirements.txt # Dependencies (see below) ```
 
 
 ---
